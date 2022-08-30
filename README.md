@@ -24,7 +24,7 @@ User can specify the dimensionality (`rows (N)` and `columns (N)`) of the Grid, 
 
 One can easily infer the time complexity of Grid's states update is $O(N^2)$ in each iteration, meaning that even a small increase in the size of the grid can lead to a **dramatic increase** of execution time.
 
-Initially, we were granted permission to access ARGO super-computer (equipped with 80 cores and 2 powerful GPUs).
+Initially, we were granted permission to access ARGO super-computer (equipped with 64 cores and 2 powerful GPUs).
 In order to take full advantage of such a powerful resource,we decided to tackle the execution time issue by implementing a parallelized instance of the initial program.
 We implemented 3 different versions of Game Of Life, exploiting the usage of the [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface), [OpenMP](https://en.wikipedia.org/wiki/OpenMP), and [CUDA](https://en.wikipedia.org/wiki/CUDA) to take advantage of GPU's cores.  
 
