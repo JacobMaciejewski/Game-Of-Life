@@ -44,6 +44,6 @@ Once GOL terminates, 2 files are reproduced: __myJob.o*****__ and __myJob.e*****
 readMe.pdf file contains an extensive analysis of the different implementations, though process, results of different experiments and interesting
 conclusions about the pros and cons of parallel programming.
 
-This project is a result of a collaboration between me and the fellow partner: [Dimitrios Foteinos](https://github.com/dfwteinos)
+Big thanks to my fellow collaborator: [Dimitrios Foteinos](https://github.com/dfwteinos)
 
-*This project is part of the course: Parallel Systems , Winter of 2019. University of Athens, DiT.*
+*Built as part of the course: Parallel Systems , Winter of 2019. University of Athens, DiT.*
