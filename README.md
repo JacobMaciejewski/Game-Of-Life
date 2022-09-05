@@ -39,7 +39,7 @@ Once GOL terminates, 2 files are reproduced: __myJob.o*****__ and __myJob.e*****
 
 *   __OPENMP__ and __CUDA__: Same approach followed as in MPI 
 
-### Further informations
+### Further informations:
 
 readMe.pdf file contains an extensive analysis of the different implementations, though process, results of different experiments and interesting
 conclusions about the pros and cons of parallel programming.
